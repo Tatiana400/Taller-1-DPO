@@ -1,0 +1,13 @@
+tipo:corriente:16500:100000
+tipo:extra:23200:400
+tipo:plus:25000:526
+tipo:refinada:35000:60000
+surtidor:Esteban:corriente:59.3:extra:15.69
+surtidor:Tomas:plus:25.16:extra:10.25
+surtidor:Samuel:extra:20.68:refinada:6.36
+surtidor:Carlos:refinada:52.36:plus:5.36
+empleado:Diego:5000000
+empleado:Felipe:4300000
+empleado:Marco:2650000
+empleado:Juan:1652000
+empleado:Nicolas:4652300
